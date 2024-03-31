@@ -1,10 +1,10 @@
 {
-  "name": "cli-simple-calculator77",
-  "version": "1.0.2",
+  "name": "cli-simple-calculator22",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "type": "module",
-  "bin": "module",
+  "bin": "index.js",
   "publishConfig": {
     "access": "public"
   },
